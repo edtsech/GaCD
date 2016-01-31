@@ -1,0 +1,81 @@
+# Code Book
+
+## Variables
+
+ * subject - The ID of the test subject
+ * activity - The type of activity
+ * timeBodyAccMeanX
+ * timeBodyAccMeanY
+ * timeBodyAccMeanZ
+ * timeBodyAccStdDevX
+ * timeBodyAccStdDevY
+ * timeBodyAccStdDevZ
+ * timeGravityAccMeanX
+ * timeGravityAccMeanY
+ * timeGravityAccMeanZ
+ * timeGravityAccStdDevX
+ * timeGravityAccStdDevY
+ * timeGravityAccStdDevZ
+ * timeBodyAccJerkMeanX
+ * timeBodyAccJerkMeanY         
+ * timeBodyAccJerkMeanZ         
+ * timeBodyAccJerkStdDevX       
+ * timeBodyAccJerkStdDevY       
+ * timeBodyAccJerkStdDevZ       
+ * timeBodyGyroMeanX             
+ * timeBodyGyroMeanY            
+ * timeBodyGyroMeanZ            
+ * timeBodyGyroStdDevX          
+ * timeBodyGyroStdDevY          
+ * timeBodyGyroStdDevZ          
+ * timeBodyGyroJerkMeanX        
+ * timeBodyGyroJerkMeanY        
+ * timeBodyGyroJerkMeanZ        
+ * timeBodyGyroJerkStdDevX      
+ * timeBodyGyroJerkStdDevY      
+ * timeBodyGyroJerkStdDevZ      
+ * timeBodyAccMagMean           
+ * timeBodyAccMagStdDev         
+ * timeGravityAccMagMean        
+ * timeGravityAccMagStdDev      
+ * timeBodyAccJerkMagMean       
+ * timeBodyAccJerkMagStdDev     
+ * timeBodyGyroMagMean          
+ * timeBodyGyroMagStdDev        
+ * timeBodyGyroJerkMagMean      
+ * timeBodyGyroJerkMagStdDev    
+ * freqBodyAccMeanX             
+ * freqBodyAccMeanY             
+ * freqBodyAccMeanZ             
+ * freqBodyAccStdDevX           
+ * freqBodyAccStdDevY           
+ * freqBodyAccStdDevZ           
+ * freqBodyAccJerkMeanX         
+ * freqBodyAccJerkMeanY         
+ * freqBodyAccJerkMeanZ         
+ * freqBodyAccJerkStdDevX       
+ * freqBodyAccJerkStdDevY       
+ * freqBodyAccJerkStdDevZ       
+ * freqBodyGyroMeanX            
+ * freqBodyGyroMeanY            
+ * freqBodyGyroMeanZ            
+ * freqBodyGyroStdDevX          
+ * freqBodyGyroStdDevY          
+ * freqBodyGyroStdDevZ          
+ * freqBodyAccMagMean           
+ * freqBodyAccMagStdDev         
+ * freqBodyBodyAccJerkMagMean   
+ * freqBodyBodyAccJerkMagStdDev 
+ * freqBodyBodyGyroMagMean      
+ * freqBodyBodyGyroMagStdDev    
+ * freqBodyBodyGyroJerkMagMean  
+ * freqBodyBodyGyroJerkMagStdDev
+
+# Activities
+
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
